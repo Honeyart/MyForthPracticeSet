@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4de0c20a-7562-4ae0-9e64-ee924f107199" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QPXBFUWIz48YPfuNb8Ct2qoBDn" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Selenium jar file folder one /xml-apis-1.4.01.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.AutomationPractice.tshirtOrdering">
+    <configuration name="AccountCreation.testCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiReportGeneration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountCreation" />
+      <option name="METHOD_NAME" value="testCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationPractice.testCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiReportGeneration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutomationPractice" />
+      <option name="METHOD_NAME" value="testCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationPractice.tshirtOrdering" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiReportGeneration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutomationPractice" />
+      <option name="METHOD_NAME" value="tshirtOrdering" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/onwardhealth/Desktop/ApiReportGeneration/src/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="ApiReportGeneration" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/onwardhealth/Desktop/ApiReportGeneration/test-output/testng-failed.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiReportGeneration" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/onwardhealth/Desktop/ApiReportGeneration/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiReportGeneration" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="null." type="TestNG" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./home/onwardhealth/Desktop/ApiReportGeneration/src/testng.xml" />
+      <item itemvalue="TestNG.null." />
+      <item itemvalue="TestNG./home/onwardhealth/Desktop/ApiReportGeneration/testng.xml" />
+      <item itemvalue="TestNG./home/onwardhealth/Desktop/ApiReportGeneration/test-output/testng-failed.xml" />
+      <item itemvalue="TestNG.AccountCreation.testCase" />
+      <item itemvalue="TestNG.AutomationPractice.testCase" />
+      <item itemvalue="TestNG.AutomationPractice.tshirtOrdering" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AutomationPractice.tshirtOrdering" />
+        <item itemvalue="TestNG.AutomationPractice.testCase" />
+        <item itemvalue="TestNG.AccountCreation.testCase" />
+        <item itemvalue="TestNG./home/onwardhealth/Desktop/ApiReportGeneration/testng.xml" />
+        <item itemvalue="TestNG./home/onwardhealth/Desktop/ApiReportGeneration/test-output/testng-failed.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4de0c20a-7562-4ae0-9e64-ee924f107199" name="Default Changelist" comment="" />
+      <created>1567673067359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567673067359</updated>
+    </task>
+    <servers />
+  </component>
+</project>
