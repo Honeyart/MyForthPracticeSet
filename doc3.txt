@@ -1,0 +1,27 @@
+
+    Download and Install Postman
+    Postman Navigation
+    Creating Requests & Analyzing Response
+    Request Parameters in Postman
+    Postman Collections
+    End to End test case (GET , DELETE, PUT , POST)
+    Basic Authentication in Postman
+    Test and Collection Runner in Postman
+    Workflows in Postman
+    Pre-Request Script in Postman
+    Variables in POSTMAN
+    Environment/Global variables
+    Adding Postman Environment
+    Postman workspace
+    How to share collections in workspaces
+    Postman snippets
+    Data Driven testing by using Json and CSV files
+    How to Run data-driven Tests
+    JSON, XML & HTML Payloads
+    Authorization Types in Postman
+    Run Postman tests in command Line
+    Generating Reports in Postman
+    Real Time Examples
+    How to handle SOAP Web service Requests in Postman
+
+ 

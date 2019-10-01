@@ -1,0 +1,13 @@
+What is Client and Server?
+Client Server architecture
+Presentation, Business & Database Layer
+What is Request & Response
+What is API
+What is API Testing
+API Testing VS Unit Testing
+What is Web Service
+Difference between API & Web service
+Components of Web services ( WSDL & UDDI)
+Types of Web services
+SOAP VS Rest services
+URI, URL & URN
