@@ -1,4 +1,3 @@
-import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -21,14 +20,14 @@ public class AccountCreation {
 
         //driver.quit();
 		///Enter email Adres
-		driver.findElement(By.id("email_create")).sendKeys(RandomStringUtils.randomAlphabetic(5)+"@mailinator.com");
+		//driver.findElement(By.id("email_create")).sendKeys(RandomStringUtils.randomAlphabetic(5)+"@mailinator.com");
 
 		//Click Create Account Button
 		driver.findElement(By.id("SubmitCreate")).click();
 
 		WebDriverWait wait=new WebDriverWait(driver, 50);
 
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("customer_firstname")));
+		//wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("customer_firstname")));
 		//enter firstname
 		driver.findElement(By.id("customer_firstname")).sendKeys("Test");
 
@@ -73,7 +72,7 @@ public class AccountCreation {
 		driver.findElement(By.id("submitAccount")).click();
 
 
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//p[@class='info-account']")));
+		//wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//p[@class='info-account']")));
 
 		//Get Text From App
 		String actualText=driver.findElement(By.xpath("//p[@class='info-account']")).getText();

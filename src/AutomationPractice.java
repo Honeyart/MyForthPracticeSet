@@ -1,4 +1,3 @@
-import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -23,14 +22,14 @@ public class AutomationPractice {
 
         //driver.quit();
         ///Enter email Adres
-        driver.findElement(By.id("email_create")).sendKeys(RandomStringUtils.randomAlphabetic(5) + "@mailinator.com");
+       // driver.findElement(By.id("email_create")).sendKeys(RandomStringUtils.randomAlphabetic(5) + "@mailinator.com");
 
         //Click Create Account Button
         driver.findElement(By.id("SubmitCreate")).click();
 
         WebDriverWait wait = new WebDriverWait(driver, 50);
 
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("customer_firstname")));
+        //wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("customer_firstname")));
         //enter firstname
         driver.findElement(By.id("customer_firstname")).sendKeys("Test");
 
@@ -111,14 +110,14 @@ public class AutomationPractice {
 
         //driver.quit();
         ///Enter email Adres
-        driver.findElement(By.id("email_create")).sendKeys(RandomStringUtils.randomAlphabetic(5) + "@mailinator.com");
+       // driver.findElement(By.id("email_create")).sendKeys(RandomStringUtils.randomAlphabetic(5) + "@mailinator.com");
 
         //Click Create Account Button
         driver.findElement(By.id("SubmitCreate")).click();
 
         WebDriverWait wait = new WebDriverWait(driver, 50);
 
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("customer_firstname")));
+       // wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("customer_firstname")));
         //enter firstname
         driver.findElement(By.id("customer_firstname")).sendKeys("Test");
 
@@ -165,10 +164,10 @@ public class AutomationPractice {
         /*new WebDriverWait(driver,50).until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[contains(text(),'Quick view')]")));
         driver.findElement(By.xpath("//span[contains(text(),'Quick view')]")).click();*/
         driver.findElement(By.xpath("//span[@class='available-now']")).click();
-        new WebDriverWait(driver,10).until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[contains(text(),'Add to cart')]")));
+       // new WebDriverWait(driver,10).until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[contains(text(),'Add to cart')]")));
 
         driver.findElement(By.xpath("//span[contains(text(),'Add to cart')]")).click();
-        new WebDriverWait(driver,10).until(ExpectedConditions.visibilityOfElementLocated(By.xpath("(//i[@class='icon-chevron-right right'])[2]")));
+        //new WebDriverWait(driver,10).until(ExpectedConditions.visibilityOfElementLocated(By.xpath("(//i[@class='icon-chevron-right right'])[2]")));
 
 
         driver.findElement(By.xpath("(//i[@class='icon-chevron-right right'])[2]")).click();
